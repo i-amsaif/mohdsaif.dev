@@ -1,0 +1,6 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#161b22"/>
+  <circle cx="200" cy="200" r="180" stroke="#00eeff" stroke-width="10" fill="none"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="40" fill="#00eeff">PROFILE</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#ededed">Replace with valid image</text>
+</svg>
